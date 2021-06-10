@@ -1,0 +1,161 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch QAtt2_2",
+            "request": "launch",
+            "mainClass": "QAtt2_2",
+            "projectName": "Hackerrank"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch HashStaircase",
+            "request": "launch",
+            "mainClass": "HashStaircase",
+            "projectName": "Hackerrank"
+        },
+        {
+            "type": "java",
+            "name": "Launch QueenAtt2",
+            "request": "launch",
+            "mainClass": "QueenAtt2",
+            "projectName": "Hackerrank"
+        },
+        {
+            "type": "java",
+            "name": "Launch Strana",
+            "request": "launch",
+            "mainClass": "Strana",
+            "projectName": "Hackerrank"
+        },
+        {
+            "type": "java",
+            "name": "Launch Stringcomp",
+            "request": "launch",
+            "mainClass": "Stringcomp",
+            "projectName": "Hackerrank"
+        },
+        {
+            "type": "java",
+            "name": "Launch alicebob",
+            "request": "launch",
+            "mainClass": "alicebob",
+            "projectName": "Hackerrank"
+        },
+        {
+            "type": "java",
+            "name": "Launch anachk",
+            "request": "launch",
+            "mainClass": "anachk",
+            "projectName": "Hackerrank"
+        },
+        {
+            "type": "java",
+            "name": "Launch balancedstring",
+            "request": "launch",
+            "mainClass": "balancedstring",
+            "projectName": "Hackerrank"
+        },
+        {
+            "type": "java",
+            "name": "Launch birdcounting",
+            "request": "launch",
+            "mainClass": "birdcounting",
+            "projectName": "Hackerrank"
+        },
+        {
+            "type": "java",
+            "name": "Launch findingminmaxscores",
+            "request": "launch",
+            "mainClass": "findingminmaxscores",
+            "projectName": "Hackerrank"
+        },
+        {
+            "type": "java",
+            "name": "Launch hello2",
+            "request": "launch",
+            "mainClass": "hello2",
+            "projectName": "Hackerrank"
+        },
+        {
+            "type": "java",
+            "name": "Launch helloworld",
+            "request": "launch",
+            "mainClass": "helloworld",
+            "projectName": "Hackerrank"
+        },
+        {
+            "type": "java",
+            "name": "Launch hourglassarrsum",
+            "request": "launch",
+            "mainClass": "hourglassarrsum",
+            "projectName": "Hackerrank"
+        },
+        {
+            "type": "java",
+            "name": "Launch kanga",
+            "request": "launch",
+            "mainClass": "kanga",
+            "projectName": "Hackerrank"
+        },
+        {
+            "type": "java",
+            "name": "Launch longArraysum",
+            "request": "launch",
+            "mainClass": "longArraysum",
+            "projectName": "Hackerrank"
+        },
+        {
+            "type": "java",
+            "name": "Launch minmaxsum",
+            "request": "launch",
+            "mainClass": "minmaxsum",
+            "projectName": "Hackerrank"
+        },
+        {
+            "type": "java",
+            "name": "Launch modulo",
+            "request": "launch",
+            "mainClass": "modulo",
+            "projectName": "Hackerrank"
+        },
+        {
+            "type": "java",
+            "name": "Launch posnegarray",
+            "request": "launch",
+            "mainClass": "posnegarray",
+            "projectName": "Hackerrank"
+        },
+        {
+            "type": "java",
+            "name": "Launch sumofarray",
+            "request": "launch",
+            "mainClass": "sumofarray",
+            "projectName": "Hackerrank"
+        },
+        {
+            "type": "java",
+            "name": "Launch timeconversion",
+            "request": "launch",
+            "mainClass": "timeconversion",
+            "projectName": "Hackerrank"
+        },
+        {
+            "type": "java",
+            "name": "Launch treeproblem",
+            "request": "launch",
+            "mainClass": "treeproblem",
+            "projectName": "Hackerrank"
+        }
+    ]
+}
