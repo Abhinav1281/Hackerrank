@@ -1,4 +1,4 @@
-package Hackerrank;
+//package Hackerrank;
 
 import basics.Arrayini;
 

@@ -1,4 +1,4 @@
-package Hackerrank;
+//package Hackerrank;
 import basics.*;
 public class findingminmaxscores {
 	 static int[] breakingRecords(int[] scores) {

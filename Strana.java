@@ -1,7 +1,7 @@
 //check anachk function condition for anagram
 
 
-package Hackerrank;
+//package Hackerrank;
 import java.util.*;
 
 public class Strana {
